@@ -26,7 +26,7 @@ Ce mini-projet implémente une application décentralisée (**DApp Smart City**)
 
 - **Testnet Sepolia (Chain ID `11155111`) :**  
   `0x1De04385d2242f1a7333625949a74628E4e89772`  
-  🔗 [Consulter sur Sepolia Etherscan](https://sepolia.etherscan.io/address/0xCOLLER_ICI_TON_ADRESSE_SEPOLIA)
+  🔗 [Consulter sur Sepolia Etherscan](https://sepolia.etherscan.io/address/0x1De04385d2242f1a7333625949a74628E4e89772)
 - **Réseau Local Hardhat (Chain ID `31337`) :**  
   `0x5FbDB2315678afecb367f032d93F642f64180aa3`
 
