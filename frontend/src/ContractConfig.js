@@ -1,5 +1,5 @@
 export const LOCAL_CONTRACT_ADDRESS = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
-export const SEPOLIA_CONTRACT_ADDRESS = ""; // À remplir à l'étape 5 si déploiement Sepolia
+export const SEPOLIA_CONTRACT_ADDRESS = "0x1De04385d2242f1a7333625949a74628E4e89772";
 
 export const CONTRACT_ABI = [
   // Rôles
